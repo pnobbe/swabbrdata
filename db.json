@@ -1,1 +1,213 @@
+{
+	"accounts": [{
+			"id": "0",
+			"firstName": "Peter",
+			"lastName": "Gryph",
+			"gender": "M",
+			"country": "Germany",
+			"email": "Peter@hotmail.com",
+			"timezone": "+2"
+		},
+		{
+			"id": "1",
+			"firstName": "Randy",
+			"lastName": "March",
+			"gender": "M",
+			"country": "Austria",
+			"email": "Randy@gmail.com",
+			"timezone": "+2"
+		},
+		{
+			"id": "2",
+			"firstName": "Roger",
+			"lastName": "Smithers",
+			"gender": "M",
+			"country": "Belgium",
+			"email": "Roger@live.com",
+			"timezone": "+2"
+		},
+		{
+			"id": "3",
+			"firstName": "Linda",
+			"lastName": "Belch",
+			"gender": "F",
+			"country": "The Netherlands",
+			"email": "Linda@yahoo.com",
+			"timezone": "+2"
+		},
+		{
+			"id": "4",
+			"firstName": "Pam",
+			"lastName": "Beas",
+			"gender": "F",
+			"country": "France",
+			"email": "Pam@scranton.com",
+			"timezone": "+2"
+		}
+	],
+	"profiles": [{
+			"accountId": 0,
+			"totalVlogs": 21,
+			"followers": 102,
+			"following": 103,
+			"nickname": "Peterson",
+			"profileImage": "image.png",
+			"interests": [
+				"Sports",
+				"Beer",
+				"Chickens"
+			]
+		},
+		{
+			"accountId": "1",
+			"totalVlogs": 14,
+			"followers": 197,
+			"following": 241,
+			"nickname": "Marcher",
+			"profileImage": "image.png",
+			"interests": [
+				"Politics",
+				"Singing",
+				"World of Warcraft"
+			]
+		},
+		{
+			"accountId": "2",
+			"totalVlogs": 26,
+			"followers": 412,
+			"following": 321,
+			"nickname": "NotAnAlien",
+			"profileImage": "image.png",
+			"interests": [
+				"UFOs",
+				"Acting",
+				"Fashion"
+			]
+		},
+		{
+			"accountId": "3",
+			"totalVlogs": 5,
+			"followers": 26,
+			"following": 245,
+			"nickname": "Giggles",
+			"profileImage": "image.png",
+			"interests": [
+				"Talking",
+				"Coffee",
+				"Restaurants"
+			]
+		},
+		{
+			"accountId": "4",
+			"totalVlogs": 84,
+			"followers": 125,
+			"following": 241,
+			"nickname": "Beasley",
+			"profileImage": "image.png",
+			"interests": [
+				"Art",
+				"Volleyball",
+				"Sales"
+			]
+		}
+	],
+	"reactions": [{
+			"reactionId": "104",
+			"accountId": 0,
+			"id": "200",
+			"date": "2019-08-18 18:45",
+			"likes": 1,
+			"reactions": 0
+		},
+		{
+			"reactionId": "103",
+			"accountId": 1,
+			"id": "201",
+			"date": "2019-07-17 17:45",
+			"likes": 5,
+			"reactions": 1
+		},
+		{
+			"reactionId": "102",
+			"accountId": 2,
+			"id": "202",
+			"date": "2019-06-16 16:45",
+			"likes": 50,
+			"reactions": 3
+		},
+		{
+			"reactionId": "101",
+			"accountId": 3,
+			"id": "203",
+			"date": "2019-05-15 15:45",
+			"likes": 0,
+			"reactions": 0
+		},
+		{
+			"reactionId": "100",
+			"accountId": 4,
+			"id": "204",
+			"date": "2019-04-14 14:45",
+			"likes": 2,
+			"reactions": 0
+		}
+	],
+	"userSettings": [{
+			"accountId": 0,
+			"acceptAll": true
+		},
+		{
+			"accountId": 1,
+			"acceptAll": true
+		},
+		{
+			"accountId": 2,
+			"acceptAll": false
+		},
+		{
+			"accountId": 3,
+			"acceptAll": false
+		},
+		{
+			"accountId": 4,
+			"acceptAll": true
+		}
+	],
+	"vlogs": [{
+			"accountId": 0,
+			"id": "100",
+			"date": "2019-08-18 18:45",
+			"likes": 540,
+			"reactions": 122
+		},
+		{
+			"accountId": 1,
+			"id": "101",
+			"date": "2019-07-17 17:45",
+			"likes": 325,
+			"reactions": 80
+		},
+		{
+			"accountId": 2,
+			"id": "102",
+			"date": "2019-06-16 16:45",
+			"likes": 241,
+			"reactions": 70
+		},
+		{
+			"accountId": 3,
+			"id": "103",
+			"date": "2019-05-15 15:45",
+			"likes": 621,
+			"reactions": 241
+		},
+		{
+			"accountId": 4,
+			"id": "104",
+			"date": "2019-04-14 14:45",
+			"likes": 685,
+			"reactions": 234
+		}
+	]
 
+}
