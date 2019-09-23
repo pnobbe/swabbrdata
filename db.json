@@ -18,7 +18,6 @@
 			"totalVlogs": 21,
 			"totalFollowers": 102,
 			"totalFollowing": 103,
-			"public": true,
 			"longitude": "53.033162",
 			"latitude": "8.883573"			
 		},
@@ -41,7 +40,6 @@
 			"totalVlogs": 14,
 			"totalFollowers": 197,
 			"totalFollowing": 241,
-			"public": false,
 			"longitude": "48.060184",
 			"latitude": "16.095438"
 		},
@@ -64,7 +62,6 @@
 			"totalVlogs": 26,
 			"totalFollowers": 412,
 			"totalFollowing": 321,
-			"public": true,
 			"longitude": "51.023365",
 			"latitude": "3.773172"
 		},
@@ -87,7 +84,6 @@
 			"totalVlogs": 5,
 			"totalFollowers": 26,
 			"totalFollowing": 245,
-			"public": false,
 			"longitude": "52.080825",
 			"latitude": "5.137684"
 		},
@@ -110,7 +106,6 @@
 			"totalVlogs": 84,
 			"totalFollowers": 125,
 			"totalFollowing": 241,
-			"public": true,
 			"longitude": "48.824158",
 			"latitude": "2.376751"
 		}
@@ -158,26 +153,31 @@
 	],
 	"userSettings": [{
 			"userId": 0,
+			"public": true,
 			"dailyVlogRequestLimit": 3,
 			"followMode": "AcceptAll"
 		},
 		{
 			"userId": 1,
+			"public": false,
 			"dailyVlogRequestLimit": 3,
 			"followMode": "DenyAll"
 		},
 		{
 			"userId": 2,
+			"public": true,
 			"dailyVlogRequestLimit": 1,
 			"followMode": "Manual"
 		},
 		{
 			"userId": 3,
+			"public": false,
 			"dailyVlogRequestLimit": 2,
 			"followMode": "AcceptAll"
 		},
 		{
 			"userId": 4,
+			"public": true,
 			"dailyVlogRequestLimit": 0,
 			"followMode": "AcceptAll"
 		}
