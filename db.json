@@ -1,12 +1,26 @@
 {
-	"accounts": [{
+	"users": [{
 			"id": "0",
 			"firstName": "Peter",
 			"lastName": "Gryph",
 			"gender": "M",
 			"country": "Germany",
 			"email": "Peter@hotmail.com",
-			"timezone": "+2"
+			"birthdate": "22/07/1955",
+			"timezone": "+2",
+			"nickname": "Peterson",
+			"profileImage": "image.png",
+			"interests": [
+				"Sports",
+				"Beer",
+				"Chickens"
+			],
+			"totalVlogs": 21,
+			"totalFollowers": 102,
+			"totalFollowing": 103,
+			"public": true,
+			"longitude": "53.033162",
+			"latitude": "8.883573"			
 		},
 		{
 			"id": "1",
@@ -15,7 +29,21 @@
 			"gender": "M",
 			"country": "Austria",
 			"email": "Randy@gmail.com",
-			"timezone": "+2"
+			"birthdate": "01/03/1974",
+			"timezone": "+2",
+			"nickname": "Marcher",
+			"profileImage": "image.png",
+			"interests": [
+				"Politics",
+				"Singing",
+				"World of Warcraft"
+			],
+			"totalVlogs": 14,
+			"totalFollowers": 197,
+			"totalFollowing": 241,
+			"public": false,
+			"longitude": "48.060184",
+			"latitude": "16.095438"
 		},
 		{
 			"id": "2",
@@ -24,7 +52,21 @@
 			"gender": "M",
 			"country": "Belgium",
 			"email": "Roger@live.com",
-			"timezone": "+2"
+			"birthdate": "25/11/1980",
+			"timezone": "+2",
+			"nickname": "NotAnAlien",
+			"profileImage": "image.png",
+			"interests": [
+				"UFOs",
+				"Acting",
+				"Fashion"
+			],
+			"totalVlogs": 26,
+			"totalFollowers": 412,
+			"totalFollowing": 321,
+			"public": true,
+			"longitude": "51.023365",
+			"latitude": "3.773172"
 		},
 		{
 			"id": "3",
@@ -33,180 +75,167 @@
 			"gender": "F",
 			"country": "The Netherlands",
 			"email": "Linda@yahoo.com",
-			"timezone": "+2"
-		},
-		{
-			"id": "4",
-			"firstName": "Pam",
-			"lastName": "Beas",
-			"gender": "F",
-			"country": "France",
-			"email": "Pam@scranton.com",
-			"timezone": "+2"
-		}
-	],
-	"profiles": [{
-			"accountId": 0,
-			"totalVlogs": 21,
-			"followers": 102,
-			"following": 103,
-			"nickname": "Peterson",
-			"profileImage": "image.png",
-			"interests": [
-				"Sports",
-				"Beer",
-				"Chickens"
-			]
-		},
-		{
-			"accountId": "1",
-			"totalVlogs": 14,
-			"followers": 197,
-			"following": 241,
-			"nickname": "Marcher",
-			"profileImage": "image.png",
-			"interests": [
-				"Politics",
-				"Singing",
-				"World of Warcraft"
-			]
-		},
-		{
-			"accountId": "2",
-			"totalVlogs": 26,
-			"followers": 412,
-			"following": 321,
-			"nickname": "NotAnAlien",
-			"profileImage": "image.png",
-			"interests": [
-				"UFOs",
-				"Acting",
-				"Fashion"
-			]
-		},
-		{
-			"accountId": "3",
-			"totalVlogs": 5,
-			"followers": 26,
-			"following": 245,
+			"birthdate": "03/06/1975",
+			"timezone": "+2",
 			"nickname": "Giggles",
 			"profileImage": "image.png",
 			"interests": [
 				"Talking",
 				"Coffee",
 				"Restaurants"
-			]
+			],
+			"totalVlogs": 5,
+			"totalFollowers": 26,
+			"totalFollowing": 245,
+			"public": false,
+			"longitude": "52.080825",
+			"latitude": "5.137684"
 		},
 		{
-			"accountId": "4",
-			"totalVlogs": 84,
-			"followers": 125,
-			"following": 241,
-			"nickname": "Beasley",
+			"id": "4",
+			"firstName": "Pam",
+			"lastName": "Bees",
+			"gender": "F",
+			"country": "France",
+			"email": "Pam@scranton.com",
+			"birthdate": "25/03/1979",
+			"timezone": "+2",
+			"nickname": "Beesly",
 			"profileImage": "image.png",
 			"interests": [
 				"Art",
 				"Volleyball",
 				"Sales"
-			]
+			],
+			"totalVlogs": 84,
+			"totalFollowers": 125,
+			"totalFollowing": 241,
+			"public": true,
+			"longitude": "48.824158",
+			"latitude": "2.376751"
 		}
 	],
 	"reactions": [{
-			"reactionId": "104",
-			"accountId": 0,
 			"id": "200",
-			"date": "2019-08-18 18:45",
-			"likes": 1,
-			"reactions": 0
+			"public": true,
+			"userId": 0,
+			"duration": "00:05",
+			"postDate": "2019-08-18 18:45",
+			"vlogId": "104"
 		},
 		{
-			"reactionId": "103",
-			"accountId": 1,
 			"id": "201",
-			"date": "2019-07-17 17:45",
-			"likes": 5,
-			"reactions": 1
+			"public": false,
+			"userId": 1,
+			"duration": "00:07",
+			"postDate": "2019-07-17 17:45",
+			"vlogId": "103"
 		},
 		{
-			"reactionId": "102",
-			"accountId": 2,
-			"id": "202",
-			"date": "2019-06-16 16:45",
-			"likes": 50,
-			"reactions": 3
-		},
-		{
-			"reactionId": "101",
-			"accountId": 3,
 			"id": "203",
-			"date": "2019-05-15 15:45",
-			"likes": 0,
-			"reactions": 0
+			"public": false,
+			"userId": 2,
+			"duration": "00:04",
+			"postDate": "2019-06-16 16:45",
+			"vlogId": "102"
 		},
 		{
-			"reactionId": "100",
-			"accountId": 4,
 			"id": "204",
-			"date": "2019-04-14 14:45",
-			"likes": 2,
-			"reactions": 0
+			"public": true,
+			"userId": 3,
+			"duration": "00:07",
+			"postDate": "2019-05-15 15:45",
+			"vlogId": "101"
+		},
+		{
+			"id": "104",
+			"public": true,
+			"userId": 4,
+			"duration": "00:12",
+			"postDate": "2019-04-14 14:45",
+			"vlogId": "100"
 		}
 	],
 	"userSettings": [{
-			"accountId": 0,
-			"acceptAll": true
+			"userId": 0,
+			"dailyVlogRequestLimit": 3,
+			"followMode": "AcceptAll"
 		},
 		{
-			"accountId": 1,
-			"acceptAll": true
+			"userId": 1,
+			"dailyVlogRequestLimit": 3,
+			"followMode": "DenyAll"
 		},
 		{
-			"accountId": 2,
-			"acceptAll": false
+			"userId": 2,
+			"dailyVlogRequestLimit": 1,
+			"followMode": "Manual"
 		},
 		{
-			"accountId": 3,
-			"acceptAll": false
+			"userId": 3,
+			"dailyVlogRequestLimit": 2,
+			"followMode": "AcceptAll"
 		},
 		{
-			"accountId": 4,
-			"acceptAll": true
+			"userId": 4,
+			"dailyVlogRequestLimit": 0,
+			"followMode": "AcceptAll"
 		}
 	],
 	"vlogs": [{
-			"accountId": 0,
 			"id": "100",
-			"date": "2019-08-18 18:45",
-			"likes": 540,
-			"reactions": 122
+			"public": false,
+			"userId": 0,
+			"duration": "00:20",
+			"startDate": "2019-08-18 18:45",
+			"totalLikes": 22,
+			"totalReactions": 4,
+			"totalViews": 35,
+			"isLive": false
 		},
 		{
-			"accountId": 1,
 			"id": "101",
-			"date": "2019-07-17 17:45",
-			"likes": 325,
-			"reactions": 80
+			"public": false,
+			"userId": 1,
+			"duration": "02:34",
+			"startDate": "2019-07-17 17:45",
+			"totalLikes": 0,
+			"totalReactions": 0,
+			"totalViews": 0,
+			"isLive": true
 		},
 		{
-			"accountId": 2,
 			"id": "102",
-			"date": "2019-06-16 16:45",
-			"likes": 241,
-			"reactions": 70
+			"public": true,
+			"userId": 2,
+			"duration": "00:14",
+			"startDate": "2019-06-16 16:45",
+			"totalLikes": 241,
+			"totalReactions": 70,
+			"totalViews": 432,
+			"isLive": false
 		},
 		{
-			"accountId": 3,
 			"id": "103",
-			"date": "2019-05-15 15:45",
-			"likes": 621,
-			"reactions": 241
+			"public": true,
+			"userId": 3,
+			"duration": "01:22",
+			"startDate": "2019-05-15 15:45",
+			"totalLikes": 621,
+			"totalReactions": 241,
+			"totalViews": 1074,
+			"isLive": false
 		},
 		{
-			"accountId": 4,
 			"id": "104",
-			"date": "2019-04-14 14:45",
-			"likes": 685,
-			"reactions": 234
+			"public": true,
+			"userId": 4,
+			"duration": "00:31",
+			"startDate": "2019-04-14 14:45",
+			"totalLikes": 685,
+			"totalReactions": 234,
+			"totalViews": 1314,
+			"isLive": false
 		}
 	]
 
