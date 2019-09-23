@@ -237,6 +237,28 @@
 			"totalViews": 1314,
 			"isLive": false
 		}
+	],
+	"followRequests": [{
+			"id": "900",
+			"requesterId": "1",
+			"receiverId": "3",
+			"status": "pending",
+			"timestamp": "2019-08-18 18:45"
+		},
+		{
+			"id": "901",
+			"requesterId": "0",
+			"receiverId": "4",
+			"status": "accepted",
+			"timestamp": "2019-08-15 16:30"
+		},
+		{
+			"id": "902",
+			"requesterId": "4",
+			"receiverId": "2",
+			"status": "declined",
+			"timestamp": "2019-08-19 12:00"
+		}
 	]
 
 }
