@@ -9,7 +9,7 @@
 			"birthdate": "22/07/1955",
 			"timezone": "+2",
 			"nickname": "Peterson",
-			"profileImage": "image.png",
+			"profileImageUrl": "image.png",
 			"interests": [
 				"Sports",
 				"Beer",
@@ -31,7 +31,7 @@
 			"birthdate": "01/03/1974",
 			"timezone": "+2",
 			"nickname": "Marcher",
-			"profileImage": "image.png",
+			"profileImageUrl": "image.png",
 			"interests": [
 				"Politics",
 				"Singing",
@@ -53,7 +53,7 @@
 			"birthdate": "25/11/1980",
 			"timezone": "+2",
 			"nickname": "NotAnAlien",
-			"profileImage": "image.png",
+			"profileImageUrl": "image.png",
 			"interests": [
 				"UFOs",
 				"Acting",
@@ -75,7 +75,7 @@
 			"birthdate": "03/06/1975",
 			"timezone": "+2",
 			"nickname": "Giggles",
-			"profileImage": "image.png",
+			"profileImageUrl": "image.png",
 			"interests": [
 				"Talking",
 				"Coffee",
@@ -97,7 +97,7 @@
 			"birthdate": "25/03/1979",
 			"timezone": "+2",
 			"nickname": "Beesly",
-			"profileImage": "image.png",
+			"profileImageUrl": "image.png",
 			"interests": [
 				"Art",
 				"Volleyball",
