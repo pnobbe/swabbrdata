@@ -112,7 +112,7 @@
 	],
 	"reactions": [{
 			"id": "200",
-			"public": true,
+			"private": false,
 			"userId": 0,
 			"duration": "00:05",
 			"postDate": "2019-08-18 18:45",
@@ -120,7 +120,7 @@
 		},
 		{
 			"id": "201",
-			"public": false,
+			"private": true,
 			"userId": 1,
 			"duration": "00:07",
 			"postDate": "2019-07-17 17:45",
@@ -128,7 +128,7 @@
 		},
 		{
 			"id": "203",
-			"public": false,
+			"private": true,
 			"userId": 2,
 			"duration": "00:04",
 			"postDate": "2019-06-16 16:45",
@@ -136,7 +136,7 @@
 		},
 		{
 			"id": "204",
-			"public": true,
+			"private": false,
 			"userId": 3,
 			"duration": "00:07",
 			"postDate": "2019-05-15 15:45",
@@ -144,7 +144,7 @@
 		},
 		{
 			"id": "104",
-			"public": true,
+			"private": false,
 			"userId": 4,
 			"duration": "00:12",
 			"postDate": "2019-04-14 14:45",
@@ -153,38 +153,38 @@
 	],
 	"userSettings": [{
 			"userId": 0,
-			"public": true,
+			"private": false,
 			"dailyVlogRequestLimit": 3,
 			"followMode": "AcceptAll"
 		},
 		{
 			"userId": 1,
-			"public": false,
+			"private": true,
 			"dailyVlogRequestLimit": 3,
 			"followMode": "DenyAll"
 		},
 		{
 			"userId": 2,
-			"public": true,
+			"private": false,
 			"dailyVlogRequestLimit": 1,
 			"followMode": "Manual"
 		},
 		{
 			"userId": 3,
-			"public": false,
+			"private": true,
 			"dailyVlogRequestLimit": 2,
 			"followMode": "AcceptAll"
 		},
 		{
 			"userId": 4,
-			"public": true,
+			"private": false,
 			"dailyVlogRequestLimit": 0,
 			"followMode": "AcceptAll"
 		}
 	],
 	"vlogs": [{
 			"id": "100",
-			"public": false,
+			"private": true,
 			"userId": 0,
 			"duration": "00:20",
 			"startDate": "2019-08-18 18:45",
@@ -195,7 +195,7 @@
 		},
 		{
 			"id": "101",
-			"public": false,
+			"private": true,
 			"userId": 1,
 			"duration": "02:34",
 			"startDate": "2019-07-17 17:45",
@@ -206,7 +206,7 @@
 		},
 		{
 			"id": "102",
-			"public": true,
+			"private": false,
 			"userId": 2,
 			"duration": "00:14",
 			"startDate": "2019-06-16 16:45",
@@ -217,7 +217,7 @@
 		},
 		{
 			"id": "103",
-			"public": true,
+			"private": false,
 			"userId": 3,
 			"duration": "01:22",
 			"startDate": "2019-05-15 15:45",
@@ -228,7 +228,7 @@
 		},
 		{
 			"id": "104",
-			"public": true,
+			"private": false,
 			"userId": 4,
 			"duration": "00:31",
 			"startDate": "2019-04-14 14:45",
