@@ -173,6 +173,14 @@
 			"duration": "00:13",
 			"postDate": "2019-04-14 19:45",
 			"vlogId": "100"
+		},
+		      {
+			"id": "208",
+			"private": false,
+			"userId": 1,
+			"duration": "00:14",
+			"postDate": "2019-04-14 19:06",
+			"vlogId": "102"
 		}
 	],
 	"userSettings": [{
@@ -248,7 +256,7 @@
 			"totalLikes": 126,
 			"totalReactions": 21,
 			"totalViews": 252,
-			"isLive": false
+			"isLive": true
 		},
 		  {
 			"id": "106",
@@ -270,7 +278,7 @@
 			"totalLikes": 621,
 			"totalReactions": 241,
 			"totalViews": 1074,
-			"isLive": false
+			"isLive": true
 		},
 		{
 			"id": "104",
