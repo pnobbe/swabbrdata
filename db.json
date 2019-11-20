@@ -308,6 +308,13 @@
 		},
 		{
 			"id": "902",
+			"requesterId": "0",
+			"receiverId": "0",
+			"status": "accepted",
+			"timestamp": "2019-08-15 16:30"
+		},
+		{
+			"id": "903",
 			"requesterId": "4",
 			"receiverId": "2",
 			"status": "declined",
