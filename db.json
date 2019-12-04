@@ -294,23 +294,23 @@
 	],
 	"followStatus": [{
 			"status" : "accepted",
-			"receiverId" : "0"
+			"targetId" : "0"
 		},
 		{
 			"status" : "pending",
-			"receiverId" : "1"
+			"targetId" : "1"
 		},
 		{
 			"status" : "declined",
-			"receiverId" : "2"
+			"targetId" : "2"
 		},
 		{
 			"status" : "derghbgf",
-			"receiverId" : "3"
+			"targetId" : "3"
 		},
 		{
 			"status" : "pending",
-			"receiverId" : "4"
+			"targetId" : "4"
 		}
 	]
 
