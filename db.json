@@ -293,32 +293,24 @@
 		}
 	],
 	"followRequests": [{
-			"id": "900",
-			"requesterId": "1",
-			"receiverId": "3",
-			"status": "pending",
-			"timestamp": "2019-08-18 18:45"
+			"status" : "accepted",
+			"receiverId" : "0"
 		},
 		{
-			"id": "901",
-			"requesterId": "0",
-			"receiverId": "4",
-			"status": "accepted",
-			"timestamp": "2019-08-15 16:30"
+			"status" : "pending",
+			"receiverId" : "1"
 		},
 		{
-			"id": "902",
-			"requesterId": "0",
-			"receiverId": "0",
-			"status": "accepted",
-			"timestamp": "2019-08-15 16:30"
+			"status" : "declined",
+			"receiverId" : "2"
 		},
 		{
-			"id": "903",
-			"requesterId": "4",
-			"receiverId": "2",
-			"status": "declined",
-			"timestamp": "2019-08-19 12:00"
+			"status" : "derghbgf",
+			"receiverId" : "3"
+		},
+		{
+			"status" : "pending",
+			"receiverId" : "4"
 		}
 	]
 
