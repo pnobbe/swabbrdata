@@ -293,29 +293,24 @@
 		}
 	],
 	"followStatus": [{
-			"id" : "500",
-			"status" : "accepted",
-			"targetId" : "0"
+			"id" : "0",
+			"status" : "accepted"
 		},
 		{
-			"id" : "501",
-			"status" : "pending",
-			"targetId" : "1"
+			"id" : "1",
+			"status" : "pending"
 		},
 		{
-			"id" : "502",
-			"status" : "declined",
-			"targetId" : "2"
+			"id" : "2",
+			"status" : "declined"
 		},
 		{
-			"id" : "503",
-			"status" : "derghbgf",
-			"targetId" : "3"
+			"id" : "3",
+			"status" : "derghbgf"
 		},
 		{
-			"id" : "504",
-			"status" : "pending",
-			"targetId" : "4"
+			"id" : "4",
+			"status" : "pending"
 		}
 	]
 
