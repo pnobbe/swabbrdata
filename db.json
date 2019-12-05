@@ -183,37 +183,6 @@
 			"vlogId": "102"
 		}
 	],
-	"userSettings": [{
-			"userId": 0,
-			"private": false,
-			"dailyVlogRequestLimit": 3,
-			"followMode": "AcceptAll"
-		},
-		{
-			"userId": 1,
-			"private": true,
-			"dailyVlogRequestLimit": 3,
-			"followMode": "DenyAll"
-		},
-		{
-			"userId": 2,
-			"private": false,
-			"dailyVlogRequestLimit": 1,
-			"followMode": "Manual"
-		},
-		{
-			"userId": 3,
-			"private": true,
-			"dailyVlogRequestLimit": 2,
-			"followMode": "AcceptAll"
-		},
-		{
-			"userId": 4,
-			"private": false,
-			"dailyVlogRequestLimit": 0,
-			"followMode": "AcceptAll"
-		}
-	],
 	"vlogs": [{
 			"id": "100",
 			"private": true,
