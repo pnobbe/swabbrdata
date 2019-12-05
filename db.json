@@ -312,6 +312,185 @@
 			"id" : "4",
 			"status" : "pending"
 		}
-	]
+	],
+	"followers": [
+	    {
+	      "userId": "0",
+	      "list": [
+		{
+		  "id": "1",
+		  "firstName": "Randy",
+		  "lastName": "March",
+		  "gender": "M",
+		  "country": "Austria",
+		  "email": "Randy@gmail.com",
+		  "birthdate": "01/03/1974",
+		  "timezone": "+2",
+		  "nickname": "Marcher",
+		  "profileImageUrl": "image.png",
+		  "interests": [
+		    "Politics",
+		    "Singing",
+		    "World of Warcraft"
+		  ],
+		  "totalVlogs": 14,
+		  "totalFollowers": 197,
+		  "totalFollowing": 241,
+		  "longitude": "48.060184",
+		  "latitude": "16.095438"
+		},
+		{
+		  "id": "2",
+		  "firstName": "Roger",
+		  "lastName": "Smithers",
+		  "gender": "M",
+		  "country": "Belgium",
+		  "email": "Roger@live.com",
+		  "birthdate": "25/11/1980",
+		  "timezone": "+2",
+		  "nickname": "NotAnAlien",
+		  "profileImageUrl": "image.png",
+		  "interests": [
+		    "UFOs",
+		    "Acting",
+		    "Fashion"
+		  ],
+		  "totalVlogs": 26,
+		  "totalFollowers": 412,
+		  "totalFollowing": 321,
+		  "longitude": "51.023365",
+		  "latitude": "3.773172"
+		}
+	      ]
+	    },
+	    {
+	      "userId": "1",
+	      "list": []
+	    },
+	    {
+	      "userId": "2",
+	      "list": [
+		{
+		  "id": "0",
+		  "firstName": "Peter",
+		  "lastName": "Gryph",
+		  "gender": "M",
+		  "country": "Germany",
+		  "email": "Peter@hotmail.com",
+		  "birthdate": "22/07/1955",
+		  "timezone": "+2",
+		  "nickname": "Peterson",
+		  "profileImageUrl": "image.png",
+		  "interests": [
+		    "Sports",
+		    "Beer",
+		    "Chickens"
+		  ],
+		  "totalVlogs": 21,
+		  "totalFollowers": 102,
+		  "totalFollowing": 103,
+		  "longitude": "53.033162",
+		  "latitude": "8.883573"
+		},
+		{
+		  "id": "1",
+		  "firstName": "Randy",
+		  "lastName": "March",
+		  "gender": "M",
+		  "country": "Austria",
+		  "email": "Randy@gmail.com",
+		  "birthdate": "01/03/1974",
+		  "timezone": "+2",
+		  "nickname": "Marcher",
+		  "profileImageUrl": "image.png",
+		  "interests": [
+		    "Politics",
+		    "Singing",
+		    "World of Warcraft"
+		  ],
+		  "totalVlogs": 14,
+		  "totalFollowers": 197,
+		  "totalFollowing": 241,
+		  "longitude": "48.060184",
+		  "latitude": "16.095438"
+		},
+		{
+		  "id": "3",
+		  "firstName": "Linda",
+		  "lastName": "Belch",
+		  "gender": "F",
+		  "country": "The Netherlands",
+		  "email": "Linda@yahoo.com",
+		  "birthdate": "03/06/1975",
+		  "timezone": "+2",
+		  "nickname": "Giggles",
+		  "profileImageUrl": "image.png",
+		  "interests": [
+		    "Talking",
+		    "Coffee",
+		    "Restaurants"
+		  ],
+		  "totalVlogs": 5,
+		  "totalFollowers": 26,
+		  "totalFollowing": 245,
+		  "longitude": "52.080825",
+		  "latitude": "5.137684"
+		},
+		{
+		  "id": "4",
+		  "firstName": "Pam",
+		  "lastName": "Bees",
+		  "gender": "F",
+		  "country": "France",
+		  "email": "Pam@scranton.com",
+		  "birthdate": "25/03/1979",
+		  "timezone": "+2",
+		  "nickname": "Beesly",
+		  "profileImageUrl": "image.png",
+		  "interests": [
+		    "Art",
+		    "Volleyball",
+		    "Sales"
+		  ],
+		  "totalVlogs": 84,
+		  "totalFollowers": 125,
+		  "totalFollowing": 241,
+		  "longitude": "48.824158",
+		  "latitude": "2.376751"
+		}
+	      ]
+	    },
+	    {
+	      "userId": "3",
+	      "list": []
+	    },
+	    {
+	      "userId": "4",
+	      "list": [
+		{
+		  "id": "2",
+		  "firstName": "Roger",
+		  "lastName": "Smithers",
+		  "gender": "M",
+		  "country": "Belgium",
+		  "email": "Roger@live.com",
+		  "birthdate": "25/11/1980",
+		  "timezone": "+2",
+		  "nickname": "NotAnAlien",
+		  "profileImageUrl": "image.png",
+		  "interests": [
+		    "UFOs",
+		    "Acting",
+		    "Fashion"
+		  ],
+		  "totalVlogs": 26,
+		  "totalFollowers": 412,
+		  "totalFollowing": 321,
+		  "longitude": "51.023365",
+		  "latitude": "3.773172"
+		}
+	      ]
+	    }
+  ]
 
 }
