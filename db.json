@@ -113,7 +113,7 @@
 	"reactions": [{
 			"id": "200",
 			"private": false,
-			"userId": 0,
+			"userId": "0",
 			"duration": "00:05",
 			"postDate": "2019-08-18 18:45",
 			"vlogId": "104"
@@ -121,7 +121,7 @@
 		{
 			"id": "201",
 			"private": true,
-			"userId": 1,
+			"userId": "1",
 			"duration": "00:07",
 			"postDate": "2019-07-17 17:45",
 			"vlogId": "103"
@@ -129,7 +129,7 @@
 		{
 			"id": "202",
 			"private": true,
-			"userId": 2,
+			"userId": "2",
 			"duration": "00:04",
 			"postDate": "2019-06-16 16:45",
 			"vlogId": "102"
@@ -137,7 +137,7 @@
 		{
 			"id": "203",
 			"private": false,
-			"userId": 3,
+			"userId": "3",
 			"duration": "00:07",
 			"postDate": "2019-05-15 15:45",
 			"vlogId": "101"
@@ -145,7 +145,7 @@
 		{
 			"id": "204",
 			"private": false,
-			"userId": 4,
+			"userId": "4",
 			"duration": "00:12",
 			"postDate": "2019-04-14 14:45",
 			"vlogId": "100"
@@ -153,7 +153,7 @@
 		{
 			"id": "205",
 			"private": false,
-			"userId": 3,
+			"userId": "3",
 			"duration": "00:35",
 			"postDate": "2019-04-14 13:45",
 			"vlogId": "100"
@@ -161,7 +161,7 @@
 		      {
 			"id": "206",
 			"private": false,
-			"userId": 1,
+			"userId": "1",
 			"duration": "00:15",
 			"postDate": "2019-04-14 12:45",
 			"vlogId": "100"
@@ -169,7 +169,7 @@
 		      {
 			"id": "207",
 			"private": false,
-			"userId": 4,
+			"userId": "4",
 			"duration": "00:13",
 			"postDate": "2019-04-14 19:45",
 			"vlogId": "100"
@@ -177,7 +177,7 @@
 		      {
 			"id": "208",
 			"private": false,
-			"userId": 1,
+			"userId": "1",
 			"duration": "00:14",
 			"postDate": "2019-04-14 19:06",
 			"vlogId": "102"
@@ -186,7 +186,7 @@
 	"vlogs": [{
 			"id": "100",
 			"private": true,
-			"userId": 0,
+			"userId": "0",
 			"duration": "00:20",
 			"startDate": "2019-08-18 18:45",
 			"totalLikes": 22,
@@ -197,7 +197,7 @@
 		{
 			"id": "101",
 			"private": true,
-			"userId": 1,
+			"userId": "1",
 			"duration": "02:34",
 			"startDate": "2019-07-17 17:45",
 			"totalLikes": 0,
@@ -208,7 +208,7 @@
 		{
 			"id": "102",
 			"private": false,
-			"userId": 2,
+			"userId": "2",
 			"duration": "00:14",
 			"startDate": "2019-06-16 16:45",
 			"totalLikes": 241,
@@ -219,7 +219,7 @@
 		  {
 			"id": "105",
 			"private": false,
-			"userId": 2,
+			"userId": "2",
 			"duration": "00:32",
 			"startDate": "2019-06-17 12:45",
 			"totalLikes": 126,
@@ -230,7 +230,7 @@
 		  {
 			"id": "106",
 			"private": true,
-			"userId": 2,
+			"userId": "2",
 			"duration": "00:53",
 			"startDate": "2019-06-18 17:45",
 			"totalLikes": 276,
@@ -241,7 +241,7 @@
 		{
 			"id": "103",
 			"private": false,
-			"userId": 3,
+			"userId": "3",
 			"duration": "01:22",
 			"startDate": "2019-05-15 15:45",
 			"totalLikes": 621,
@@ -252,7 +252,7 @@
 		{
 			"id": "104",
 			"private": false,
-			"userId": 4,
+			"userId": "4",
 			"duration": "00:31",
 			"startDate": "2019-04-14 14:45",
 			"totalLikes": 685,
