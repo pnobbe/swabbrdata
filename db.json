@@ -209,27 +209,11 @@
 			"isLive": false
 		}
 	],
-	"followStatus": [{
-			"id" : "0",
-			"status" : "accepted"
-		},
-		{
-			"id" : "1",
-			"status" : "pending"
-		},
-		{
-			"id" : "2",
-			"status" : "declined"
-		},
-		{
-			"id" : "3",
-			"status" : "derghbgf"
-		},
-		{
-			"id" : "4",
-			"status" : "pending"
-		}
-	],
+	"userSettings": {
+		"private" : false,
+		"dailyVlogRequestLimit" : 2,
+		"followMode" : 0
+	},
 	"followers": [
 	    {
 	      "id": "0",
