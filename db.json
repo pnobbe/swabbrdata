@@ -210,9 +210,9 @@
 		}
 	],
 	"userSettings": {
-		"private" : false,
+		"private" : true,
 		"dailyVlogRequestLimit" : 2,
-		"followMode" : 0
+		"followMode" : 1
 	},
 	"followers": [
 	    {
