@@ -214,26 +214,35 @@
 		"dailyVlogRequestLimit" : 2,
 		"followMode" : 1
 	},
-	"followStatus": [{
-			"id" : "0",
-			"status" : "accepted"
-		},
-		{
-			"id" : "1",
-			"status" : "pending"
-		},
-		{
-			"id" : "2",
-			"status" : "declined"
-		},
-		{
-			"id" : "3",
-			"status" : "derghbgf"
-		},
-		{
-			"id" : "4",
-			"status" : "pending"
-		}
-	]
+	"login": {
+		"accessToken": "tesgfdsfdsds",
+		"user": {
+			"id": "0",
+		    	"firstName": "Peter",
+		    	"lastName": "Gryph",
+		    	"gender": "M",
+		    	"country": "Germany",
+		    	"email": "Peter@hotmail.com",
+		    	"birthdate": "22/07/1955",
+		    	"timezone": "+2",
+		    	"nickname": "Peterson",
+		    	"profileImageUrl": "image.png",
+		    	"interests": [
+		      		"Sports",
+		      		"Beer",
+		      		"Chickens"
+		    	],
+		    	"totalVlogs": 21,
+		    	"totalFollowers": 102,
+		    	"totalFollowing": 103,
+		    	"longitude": "53.033162",
+		    	"latitude": "8.883573"
+		  },
+		  "userSettings": {
+		  	"private": true,
+		  	"dailyVlogRequestLimit": 2,
+		  	"followMode": 1
+		  }
+	}
 
 }
