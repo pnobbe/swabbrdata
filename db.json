@@ -214,7 +214,7 @@
 		"dailyVlogRequestLimit" : 2,
 		"followMode" : 1
 	},
-	"register": {
+	"login": {
 		"accessToken": "tesgfdsfdsds",
 		"user": {
 			"id": "0",
