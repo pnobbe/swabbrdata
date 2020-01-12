@@ -1,14 +1,14 @@
 {
 	"users": [{
 			"id": "0",
-			"firstName": "Peter",
-			"lastName": "Gryph",
+			"firstName": "Patrick",
+			"lastName": "Nobbe",
 			"gender": "M",
 			"country": "Germany",
-			"email": "Peter@hotmail.com",
-			"birthdate": "22/07/1955",
+			"email": "Patrick@hotmail.com",
+			"birthdate": "22/07/1996",
 			"timezone": "+2",
-			"nickname": "Peterson",
+			"nickname": "pnobbe",
 			"profileImageUrl": "image.png",
 			"interests": [
 				"Sports",
@@ -23,14 +23,14 @@
 		},
 		{
 			"id": "1",
-			"firstName": "Randy",
-			"lastName": "March",
+			"firstName": "Niels",
+			"lastName": "Evenblij",
 			"gender": "M",
 			"country": "Austria",
 			"email": "Randy@gmail.com",
 			"birthdate": "01/03/1974",
 			"timezone": "+2",
-			"nickname": "Marcher",
+			"nickname": "nevenblij",
 			"profileImageUrl": "image.png",
 			"interests": [
 				"Politics",
@@ -45,14 +45,14 @@
 		},
 		{
 			"id": "2",
-			"firstName": "Roger",
-			"lastName": "Smithers",
+			"firstName": "Don",
+			"lastName": "Zandbergen",
 			"gender": "M",
 			"country": "Belgium",
 			"email": "Roger@live.com",
 			"birthdate": "25/11/1980",
 			"timezone": "+2",
-			"nickname": "NotAnAlien",
+			"nickname": "laixer",
 			"profileImageUrl": "image.png",
 			"interests": [
 				"UFOs",
@@ -67,14 +67,14 @@
 		},
 		{
 			"id": "3",
-			"firstName": "Linda",
-			"lastName": "Belch",
+			"firstName": "James",
+			"lastName": "Bal",
 			"gender": "F",
 			"country": "The Netherlands",
 			"email": "Linda@yahoo.com",
 			"birthdate": "03/06/1975",
 			"timezone": "+2",
-			"nickname": "Giggles",
+			"nickname": "curryguy29",
 			"profileImageUrl": "image.png",
 			"interests": [
 				"Talking",
@@ -89,14 +89,103 @@
 		},
 		{
 			"id": "4",
-			"firstName": "Pam",
-			"lastName": "Bees",
+			"firstName": "Yorick",
+			"lastName": "de Wid",
 			"gender": "F",
 			"country": "France",
 			"email": "Pam@scranton.com",
 			"birthdate": "25/03/1979",
 			"timezone": "+2",
-			"nickname": "Beesly",
+			"nickname": "yoyorick",
+			"profileImageUrl": "image.png",
+			"interests": [
+				"Art",
+				"Volleyball",
+				"Sales"
+			],
+			"totalVlogs": 84,
+			"totalFollowers": 125,
+			"totalFollowing": 241,
+			"longitude": "48.824158",
+			"latitude": "2.376751"
+		},
+		  {
+			"id": "5",
+			"firstName": "Beau",
+			"lastName": "Casemie",
+			"gender": "F",
+			"country": "France",
+			"email": "Pam@scranton.com",
+			"birthdate": "25/03/1979",
+			"timezone": "+2",
+			"nickname": "🌳",
+			"profileImageUrl": "image.png",
+			"interests": [
+				"Art",
+				"Volleyball",
+				"Sales"
+			],
+			"totalVlogs": 84,
+			"totalFollowers": 125,
+			"totalFollowing": 241,
+			"longitude": "48.824158",
+			"latitude": "2.376751"
+		}
+		  ,
+		  {
+			"id": "6",
+			"firstName": "Bart",
+			"lastName": "van Es",
+			"gender": "F",
+			"country": "France",
+			"email": "Pam@scranton.com",
+			"birthdate": "25/03/1979",
+			"timezone": "+2",
+			"nickname": "bes",
+			"profileImageUrl": "image.png",
+			"interests": [
+				"Art",
+				"Volleyball",
+				"Sales"
+			],
+			"totalVlogs": 84,
+			"totalFollowers": 125,
+			"totalFollowing": 241,
+			"longitude": "48.824158",
+			"latitude": "2.376751"
+		},
+		  {
+			"id": "7",
+			"firstName": "Thomas",
+			"lastName": "Beckers",
+			"gender": "F",
+			"country": "France",
+			"email": "Pam@scranton.com",
+			"birthdate": "25/03/1979",
+			"timezone": "+2",
+			"nickname": "beckie",
+			"profileImageUrl": "image.png",
+			"interests": [
+				"Art",
+				"Volleyball",
+				"Sales"
+			],
+			"totalVlogs": 84,
+			"totalFollowers": 125,
+			"totalFollowing": 241,
+			"longitude": "48.824158",
+			"latitude": "2.376751"
+		},
+		  {
+			"id": "8",
+			"firstName": "Kaan",
+			"lastName": "Çenik",
+			"gender": "M",
+			"country": "France",
+			"email": "Pam@scranton.com",
+			"birthdate": "25/03/1979",
+			"timezone": "+2",
+			"nickname": "kaantje_pappie",
 			"profileImageUrl": "image.png",
 			"interests": [
 				"Art",
@@ -131,6 +220,79 @@
 			"status": "pending"
 		}
 	],
+	"reactions": [{
+			"id": "200",
+			"private": false,
+			"userId": 0,
+			"duration": "00:05",
+			"postDate": "2019-08-18 18:45",
+			"vlogId": "104"
+		},
+		{
+			"id": "201",
+			"private": true,
+			"userId": 1,
+			"duration": "00:07",
+			"postDate": "2019-07-17 17:45",
+			"vlogId": "103"
+		},
+		{
+			"id": "202",
+			"private": true,
+			"userId": 2,
+			"duration": "00:04",
+			"postDate": "2019-06-16 16:45",
+			"vlogId": "102"
+		},
+		{
+			"id": "203",
+			"private": false,
+			"userId": 8,
+			"duration": "00:07",
+			"postDate": "2019-05-15 15:45",
+			"vlogId": "101"
+		},
+		{
+			"id": "204",
+			"private": false,
+			"userId": 4,
+			"duration": "00:12",
+			"postDate": "2019-04-14 14:45",
+			"vlogId": "100"
+		},
+		{
+			"id": "205",
+			"private": false,
+			"userId": 6,
+			"duration": "00:35",
+			"postDate": "2019-04-14 13:45",
+			"vlogId": "100"
+		},
+		      {
+			"id": "206",
+			"private": false,
+			"userId": 1,
+			"duration": "00:15",
+			"postDate": "2019-04-14 12:45",
+			"vlogId": "100"
+		},
+		      {
+			"id": "207",
+			"private": false,
+			"userId": 7,
+			"duration": "00:13",
+			"postDate": "2019-04-14 19:45",
+			"vlogId": "100"
+		},
+		      {
+			"id": "208",
+			"private": false,
+			"userId": 4,
+			"duration": "00:14",
+			"postDate": "2019-04-14 19:06",
+			"vlogId": "102"
+		}
+	],
 	"vlogs": [{
 			"id": "100",
 			"private": true,
@@ -156,7 +318,7 @@
 		{
 			"id": "102",
 			"private": false,
-			"userId": "2",
+			"userId": "5",
 			"duration": "00:14",
 			"startDate": "2019-06-16 16:45",
 			"totalLikes": 241,
@@ -173,7 +335,7 @@
 			"totalLikes": 126,
 			"totalReactions": 21,
 			"totalViews": 252,
-			"isLive": true
+			"isLive": false
 		},
 		  {
 			"id": "106",
@@ -195,14 +357,36 @@
 			"totalLikes": 621,
 			"totalReactions": 241,
 			"totalViews": 1074,
-			"isLive": true
+			"isLive": false
 		},
 		{
 			"id": "104",
 			"private": false,
+			"userId": "8",
+			"duration": "27:12",
+			"startDate": "2019-04-13 14:48",
+			"totalLikes": 685,
+			"totalReactions": 234,
+			"totalViews": 1314,
+			"isLive": false
+		},
+		{
+			"id": "105",
+			"private": false,
+			"userId": "6",
+			"duration": "00:31",
+			"startDate": "2019-04-14 11:25",
+			"totalLikes": 685,
+			"totalReactions": 234,
+			"totalViews": 1314,
+			"isLive": false
+		},
+		{
+			"id": "106",
+			"private": false,
 			"userId": "4",
 			"duration": "00:31",
-			"startDate": "2019-04-14 14:45",
+			"startDate": "2019-04-14 19:11",
 			"totalLikes": 685,
 			"totalReactions": 234,
 			"totalViews": 1314,
@@ -214,35 +398,27 @@
 		"dailyVlogRequestLimit" : 2,
 		"followMode" : 1
 	},
-	"login": {
-		"accessToken": "tesgfdsfdsds",
-		"user": {
-			"id": "0",
-		    	"firstName": "Peter",
-		    	"lastName": "Gryph",
-		    	"gender": "M",
-		    	"country": "Germany",
-		    	"email": "Peter@hotmail.com",
-		    	"birthdate": "22/07/1955",
-		    	"timezone": "+2",
-		    	"nickname": "Peterson",
-		    	"profileImageUrl": "image.png",
-		    	"interests": [
-		      		"Sports",
-		      		"Beer",
-		      		"Chickens"
-		    	],
-		    	"totalVlogs": 21,
-		    	"totalFollowers": 102,
-		    	"totalFollowing": 103,
-		    	"longitude": "53.033162",
-		    	"latitude": "8.883573"
-		  },
-		  "userSettings": {
-		  	"private": true,
-		  	"dailyVlogRequestLimit": 2,
-		  	"followMode": 1
-		  }
-	}
+	"followRequests": [{
+            "id": "900",
+            "requesterId": "1",
+            "receiverId": "3",
+            "status": "pending",
+            "timestamp": "2019-08-18 18:45"
+        },
+        {
+            "id": "901",
+            "requesterId": "0",
+            "receiverId": "4",
+            "status": "accepted",
+            "timestamp": "2019-08-15 16:30"
+        },
+        {
+            "id": "902",
+            "requesterId": "4",
+            "receiverId": "2",
+            "status": "declined",
+            "timestamp": "2019-08-19 12:00"
+        }
+    ]
 
 }
