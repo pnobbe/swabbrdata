@@ -199,27 +199,6 @@
 			"latitude": "2.376751"
 		}
 	],
-	"sendFollowRequest": [{
-			"id": "2",
-			"status": "pending"
-		},
-		{
-			"id": "2",
-			"status": "pending"
-		},
-		{
-			"id": "2",
-			"status": "pending"
-		},
-		{
-			"id": "2",
-			"status": "pending"
-		},
-		{
-			"id": "2",
-			"status": "pending"
-		}
-	],
 	"reactions": [{
 			"id": "200",
 			"private": false,
