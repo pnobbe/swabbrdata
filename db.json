@@ -377,27 +377,25 @@
 		"dailyVlogRequestLimit" : 2,
 		"followMode" : 1
 	},
-	"followRequests": [{
-            "id": "900",
-            "requesterId": "1",
-            "receiverId": "3",
-            "status": "pending",
-            "timestamp": "2019-08-18 18:45"
-        },
-        {
-            "id": "901",
-            "requesterId": "0",
-            "receiverId": "4",
-            "status": "accepted",
-            "timestamp": "2019-08-15 16:30"
-        },
-        {
-            "id": "902",
-            "requesterId": "4",
-            "receiverId": "2",
-            "status": "declined",
-            "timestamp": "2019-08-19 12:00"
-        }
-    ]
-
+	"followStatus": [{
+			"status" : "accepted",
+			"targetId" : "0"
+		},
+		{
+			"status" : "pending",
+			"targetId" : "1"
+		},
+		{
+			"status" : "declined",
+			"targetId" : "2"
+		},
+		{
+			"status" : "derghbgf",
+			"targetId" : "3"
+		},
+		{
+			"status" : "pending",
+			"targetId" : "4"
+		}
+	]
 }
