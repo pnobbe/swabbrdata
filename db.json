@@ -378,23 +378,23 @@
 		"followMode" : 1
 	},
 	"followStatus": [{
-			"targetId" : "0",
+			"id" : "0",
 			"status" : "accepted"
 		},
 		{
-			"targetId" : "1",
+			"id" : "1",
 			"status" : "pending"
 		},
 		{
-			"targetId" : "2",
+			"id" : "2",
 			"status" : "declined"
 		},
 		{
-			"targetId" : "3",
+			"id" : "3",
 			"status" : "derghbgf"
 		},
 		{
-			"targetId" : "4",
+			"id" : "4",
 			"status" : "pending"
 		}
 	]
