@@ -19,7 +19,7 @@
 			"totalFollowers": 102,
 			"totalFollowing": 103,
 			"longitude": "53.033162",
-			"latitude": "8.883573"			
+			"latitude": "8.883573"
 		},
 		{
 			"id": "1",
@@ -109,7 +109,7 @@
 			"longitude": "48.824158",
 			"latitude": "2.376751"
 		},
-		  {
+		{
 			"id": "5",
 			"firstName": "Beau",
 			"lastName": "Casemie",
@@ -130,9 +130,8 @@
 			"totalFollowing": 241,
 			"longitude": "48.824158",
 			"latitude": "2.376751"
-		}
-		  ,
-		  {
+		},
+		{
 			"id": "6",
 			"firstName": "Bart",
 			"lastName": "van Es",
@@ -154,7 +153,7 @@
 			"longitude": "48.824158",
 			"latitude": "2.376751"
 		},
-		  {
+		{
 			"id": "7",
 			"firstName": "Thomas",
 			"lastName": "Beckers",
@@ -176,7 +175,7 @@
 			"longitude": "48.824158",
 			"latitude": "2.376751"
 		},
-		  {
+		{
 			"id": "8",
 			"firstName": "Kaan",
 			"lastName": "Çenik",
@@ -247,7 +246,7 @@
 			"postDate": "2019-04-14 13:45",
 			"vlogId": "100"
 		},
-		      {
+		{
 			"id": "206",
 			"private": false,
 			"userId": 1,
@@ -255,7 +254,7 @@
 			"postDate": "2019-04-14 12:45",
 			"vlogId": "100"
 		},
-		      {
+		{
 			"id": "207",
 			"private": false,
 			"userId": 7,
@@ -263,7 +262,7 @@
 			"postDate": "2019-04-14 19:45",
 			"vlogId": "100"
 		},
-		      {
+		{
 			"id": "208",
 			"private": false,
 			"userId": 4,
@@ -305,7 +304,7 @@
 			"totalViews": 432,
 			"isLive": false
 		},
-		  {
+		{
 			"id": "105",
 			"private": false,
 			"userId": "2",
@@ -316,7 +315,7 @@
 			"totalViews": 252,
 			"isLive": false
 		},
-		  {
+		{
 			"id": "106",
 			"private": true,
 			"userId": "2",
@@ -373,41 +372,41 @@
 		}
 	],
 	"userSettings": {
-		"private" : true,
-		"dailyVlogRequestLimit" : 2,
-		"followMode" : 1
+		"private": true,
+		"dailyVlogRequestLimit": 2,
+		"followMode": 1
 	},
 	"followStatus": [{
-			"id" : "0",
-			"status" : "accepted"
+			"id": "0",
+			"status": "accepted"
 		},
 		{
-			"id" : "1",
-			"status" : "pending"
+			"id": "1",
+			"status": "pending"
 		},
 		{
-			"id" : "2",
-			"status" : "declined"
+			"id": "2",
+			"status": "declined"
 		},
 		{
-			"id" : "3",
-			"status" : "derghbgf"
+			"id": "3",
+			"status": "derghbgf"
 		},
 		{
-			"id" : "4",
-			"status" : "pending"
-		},{
-			"id" : "5",
-			"status" : "accepted"
-		},{
-			"id" : "6",
-			"status" : "accepted"
-		},{
-			"id" : "7",
-			"status" : "accepted"
-		},{
-			"id" : "8",
-			"status" : "accepted"
-		},
+			"id": "4",
+			"status": "pending"
+		}, {
+			"id": "5",
+			"status": "accepted"
+		}, {
+			"id": "6",
+			"status": "accepted"
+		}, {
+			"id": "7",
+			"status": "accepted"
+		}, {
+			"id": "8",
+			"status": "accepted"
+		}
 	]
 }
