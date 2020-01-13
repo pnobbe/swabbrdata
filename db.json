@@ -378,24 +378,24 @@
 		"followMode" : 1
 	},
 	"followStatus": [{
-			"status" : "accepted",
-			"targetId" : "0"
+			"targetId" : "0",
+			"status" : "accepted"
 		},
 		{
-			"status" : "pending",
-			"targetId" : "1"
+			"targetId" : "1",
+			"status" : "pending"
 		},
 		{
-			"status" : "declined",
-			"targetId" : "2"
+			"targetId" : "2",
+			"status" : "declined"
 		},
 		{
-			"status" : "derghbgf",
-			"targetId" : "3"
+			"targetId" : "3",
+			"status" : "derghbgf"
 		},
 		{
-			"status" : "pending",
-			"targetId" : "4"
+			"targetId" : "4",
+			"status" : "pending"
 		}
 	]
 }
